@@ -4,4 +4,4 @@ Titles:
 	- Fullstack Developer (beginner)
 
 Current projet:
-	Lewynnod (https://lewynnod.me) - To collaborate, gain experience or kill time, reach me on Instagram.
+	Lewynnod (https://lewynnod.me) - To collaborate, gain experience or kill time on an ambitious but fun project, add me on Discord (lewynnod.me)
